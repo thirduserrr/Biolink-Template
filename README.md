@@ -13,7 +13,7 @@ A sleek and customizable biolink page template for creators, developers, and any
 
 ## Demo
 
-You can view a live demo here: [Insert Demo URL](https://wan.tazl.dev/)]
+You can view a live demo here: [Click me](https://wan.tazl.dev/)
 
 ## Installation
 
